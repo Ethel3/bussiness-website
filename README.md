@@ -2,4 +2,4 @@
 This site was made with HTML, CSS & JS
 
 ## Live Demo
-Check it out at https://dummysite1.netlify.app
+Check it out at https://ethel-dummy.netlify.app
