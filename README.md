@@ -1,5 +1,5 @@
 # DummySite1
-This site was made with HTML, CSS & JS
+This site was made with HTML, CSS & JavaScript 
 
 ## Live Demo
 Check it out at https://ethel-dummy.netlify.app
